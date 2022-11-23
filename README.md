@@ -6,4 +6,4 @@ Arduino Folder:
   One uploads the Belt.ino code to control the belt. The other encodes ASRS.ino to control ASRS.
   
 WMS Folder:
-  you need to change path in WMS.py file.
+  You need to change path in WMS.py file.
